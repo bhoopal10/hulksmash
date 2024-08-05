@@ -24,7 +24,7 @@ body, html {
 .image {
     width: 100px; /* Adjust size as needed */
     height: auto;
-    animation: moveHorizontal 5s linear infinite;
+    animation: moveHorizontal 10s linear infinite;
 }
 
 @keyframes moveHorizontal {
